@@ -1,5 +1,5 @@
 # Akava-Theme
-![](https://i.imgur.com/DjkLxcA.png)
+![](https://i.imgur.com/jRSbmzO.png)
 
 Widget KDE/Qt theme
 
